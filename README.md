@@ -1,7 +1,8 @@
 IMPORTANT NOTICE
 ----
 
-This repository was old record of https://github.com/guitarrapc/GraniResource for simplify. No more commits will be push to here.
+**WARNING THIS REPO IS DEPRECATED!! MOVED TO [GraniResource](https://github.com/guitarrapc/GraniResource)**
+This repository was old record of https://github.com/guitarrapc/GraniResource for simplify. No more commits will be push to here and will be delete in ther future.
 
 DSCResources
 ============
